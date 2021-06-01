@@ -1,4 +1,1 @@
-
-
-
-let str = "";
+console.log("hello, i am Lara. Welcome to my website!");
