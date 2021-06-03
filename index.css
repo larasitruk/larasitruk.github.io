@@ -26,8 +26,8 @@ p {
 }
 
 .images {
-    width: 600px;
-    height: 500px;
+    width: 50%;
+    height: auto;
     border: 5px solid #E5C4CD;
     padding: 10px;
     transition: opacity 1s ease-in-out;
@@ -67,5 +67,5 @@ h1:hover,a:hover {
     border: 5px solid #8FFFE5;
     opacity: 0.5;
     max-width: 80%;
-    height: 500px;
+    height: auto;
 }
